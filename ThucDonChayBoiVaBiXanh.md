@@ -8,7 +8,7 @@ description: "Bài giới thiệu thực đơn chay sử dụng bưởi và bí 
 
 Trong không khí thanh tịnh của những ngày chay, chúng ta luôn tìm kiếm những trải nghiệm ẩm thực vừa độc đáo vừa lành mạnh. Thực đơn chay này sử dụng **trái bưởi** và **bí xanh** – những nguyên liệu quen thuộc nhưng được biến tấu theo cách sáng tạo để mang đến những hương vị mới lạ, kết hợp giữa thanh mát, ngọt tự nhiên và đậm đà.
 
-![Bưởi](images/Buoi.jpeg)
+![Thực Đơn Chay với Bưởi và Bí Xanh](images/BuoivaBiXanh.png)
 
 ## Sự Hài Hòa Giữa Vị Ngọt, Chua, Giòn Và Thanh Mát
 
@@ -22,8 +22,6 @@ Thực đơn được chia thành các phần chính:
 - **Tráng miệng:** Thạch Bưởi Mát Lạnh
 
 Mỗi món ăn trong thực đơn đều được chế biến tỉ mỉ để giữ trọn hương vị tự nhiên của các nguyên liệu, đồng thời đảm bảo dinh dưỡng tối ưu.
-
-![Bí xanh](images/BiXanh.jpg)
 
 ---
 
@@ -49,6 +47,8 @@ Mỗi món ăn trong thực đơn đều được chế biến tỉ mỉ để g
 ---
 
 ### 2. Súp Bí Xanh Mát Lạnh (Khai vị)
+<img src="images/SupBiXanh.png" height="300" alt="Súp Bí Xanh Mát Lạnh">
+
 **Nguyên liệu:**
 - 300g bí xanh (gọt vỏ, cắt miếng)
 - 500ml nước dùng rau củ (xem hướng dẫn ở phần 1)
@@ -65,6 +65,8 @@ Mỗi món ăn trong thực đơn đều được chế biến tỉ mỉ để g
 ---
 
 ### 3. Bưởi Kho Chay (Món chính)
+<img src="images/BuoiKhoChay.png" height="300" alt="Bưởi Kho Chay">
+
 **Nguyên liệu:**
 - 1 chén múi bưởi (bóc tách, loại bỏ hạt)
 - 100g nấm đông cô (hoặc các loại nấm khác, ngâm mềm, thái lát)
@@ -86,6 +88,8 @@ Mỗi món ăn trong thực đơn đều được chế biến tỉ mỉ để g
 ---
 
 ### 4. Bưởi Chiên Giòn (Món chính)
+<img src="images/BuoiChienGion.png" height="300" alt="Bưởi Chiên Giòn">
+
 **Nguyên liệu:**
 - 1 chén múi bưởi (bóc sẵn, giữ nguyên hình dáng)
 - 1/2 chén bột chiên giòn
@@ -103,6 +107,7 @@ Mỗi món ăn trong thực đơn đều được chế biến tỉ mỉ để g
 ---
 
 ### 5. Canh Bí Xanh Nấu Nấm (Canh phụ)
+<img src="images/CanhBiXanhNauNam.png" height="300" alt="Canh Bí Xanh Nấu Nấm">
 **Nguyên liệu:**
 - 300g bí xanh (gọt vỏ, cắt miếng vừa ăn)
 - 150g nấm (nấm hương, nấm rơm hoặc nấm kim châm; nếu dùng nấm khô thì cần ngâm mềm, thái lát)
@@ -120,6 +125,8 @@ Mỗi món ăn trong thực đơn đều được chế biến tỉ mỉ để g
 ---
 
 ### 6. Thạch Bưởi Mát Lạnh (Tráng miệng)
+<img src="images/ThachBuoi.png" height="300" alt="Thạch Bưởi Mát Lạnh">
+
 **Nguyên liệu:**
 - 200ml nước ép bưởi (vắt tươi)
 - 1 gói bột rau câu (agar agar)
