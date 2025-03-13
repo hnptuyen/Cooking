@@ -8,7 +8,7 @@ description: "Bài giới thiệu thực đơn chay sử dụng bưởi và bí 
 
 Trong không khí thanh tịnh của những ngày chay, chúng ta luôn tìm kiếm những trải nghiệm ẩm thực vừa độc đáo vừa lành mạnh. Thực đơn chay này sử dụng **trái bưởi** và **bí xanh** – những nguyên liệu quen thuộc nhưng được biến tấu theo cách sáng tạo để mang đến những hương vị mới lạ, kết hợp giữa thanh mát, ngọt tự nhiên và đậm đà.
 
-![Thực Đơn Chay với Bưởi và Bí Xanh](images/BuoivaBiXanh.png)
+<img src="images/BuoivaBiXanh1.png" height="500" alt="Thực Đơn Chay với Bưởi và Bí Xanh">
 
 ## Sự Hài Hòa Giữa Vị Ngọt, Chua, Giòn Và Thanh Mát
 
